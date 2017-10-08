@@ -3,7 +3,7 @@ JS Off-Canvas Responsive Navigation
 
 > Creating a custom off-canvas responsive navigation with CSS & JavaScript.
 
-Read the post [here](https://www.codementor.io/lautiamkok/) about this repository.
+Read the post [here](https://www.codementor.io/lautiamkok/js-tips-creating-your-own-off-canvas-responsive-navigation-with-css-jquery-cogght7su) about this repository.
 
 Hosted at [https://lautiamkok.github.io/js-off-canvas-responsive/](https://lautiamkok.github.io/js-off-canvas-responsive/)
 
